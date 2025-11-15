@@ -5,7 +5,7 @@ Frank Coelho de Alcantara\
 Eduardo Teodoro Moreira de Souza - Teodorooh
 
 ## Modo de Uso
-Abrir o Link: \
+Abrir o Link: https://onlinegdb.com/cEFkez6vC \
 E clicar em "Run", botão verde na parte superior esquerda da tela ou F9.
 
 Exemplo de uso:\
@@ -24,20 +24,17 @@ E você poderá ver no terminal uma lista contendo um novo item.
 2) 1, ID: 11
 Nome: Microfone
 Quantidade: 10
-Categoria: Periferico
-Item adicionado.
+Categoria: Periferico #Item adicionado.
 
 3) 1, ID: 12
 Nome: Mouse
 Quantidade: 10
-Categoria: Periferico
-Item adicionado.
+Categoria: Periferico #Item adicionado.
 
 4) 1, ID: 13
 Nome: Fone
 Quantidade: 10
-Categoria: Periferico
-Item adicionado.
+Categoria: Periferico #Item adicionado.
 
 5) 0, #Encerrando o sistema.
 
@@ -58,8 +55,7 @@ Categoria: Periferico #Item adicionado.
 
 11) 2, 
 ID: 14
-Qtd remover: 15 # Estoque insuficiente.
-Exibiu erro corretamente.
+Qtd remover: 15 # Estoque insuficiente e exibiu erro corretamente.
 
 12) Inventario.dat ainda mostra 10 unidades.
 
